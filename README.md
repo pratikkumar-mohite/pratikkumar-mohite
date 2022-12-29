@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 <br>
 
@@ -11,15 +11,16 @@
 - 👯 I’m looking to collaborate on DevOps projects
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 - 💬 Ask me about DevOps and Cloud technology
-- 📫 You can reachout to me at `mohite770.pm@gmail.com`
+- 📫 You can reachout to me @ `mohite770.pm@gmail.com`
 - ⚡ Fun fact about me is that I play musical instuments like Guitar and Piano keyboard
 ---
 ## Socials 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikkumar-mohite/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dotslashmohite)
-[![Medium](https://img.shields.io/badge/Medium-%FFFFFFF.svg?logo=Medium&logoColor=white)](https://medium.com/dotslashmohite)
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=Medium&logoColor=white)](https://medium.com/dotslashmohite)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikkumar_mohite)
+[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-FCC640?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/dotslashmohite)
 [![Gmail Badge](https://img.shields.io/badge/-mohite770.pm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohite770.pm@gmail.com)](mailto:mohite770.pm@gmail.com)
 
 ---
