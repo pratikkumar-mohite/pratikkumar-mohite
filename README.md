@@ -1,8 +1,12 @@
-### Hi there 👋
+<!-- <p align="center">
+  <a href="https://github.com/pratikkumar-mohite">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Pratikkumar Mohite" /></a>
+</p> -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
-</div>
+<p align="center">
+  <a href="https://github.com/pratikkumar-mohite">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Pratikkumar%20Mohite;A%20DevOps%20Proffessional;3%2B%20Years%20of%20%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <br>
 
 ## About Me 💫
@@ -15,13 +19,11 @@
 - ⚡ Fun fact about me is that I play musical instuments like Guitar and Piano keyboard
 ---
 ## Socials 🌐
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikkumar-mohite/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dotslashmohite)
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=Medium&logoColor=white)](https://medium.com/dotslashmohite)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikkumar_mohite)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-FCC640?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/dotslashmohite)
-[![Gmail Badge](https://img.shields.io/badge/-mohite770.pm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohite770.pm@gmail.com)](mailto:mohite770.pm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikkumar-mohite/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dotslashmohite)
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/dotslashmohite)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pratikkumar_mohite)
+[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-FCC640?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/dotslashmohite)
 
 ---
 
@@ -42,15 +44,28 @@
 
 ---
 
-## My Certifications 🏅
-- [Certified Kubernetes Administrator](https://www.credly.com/badges/99605a74-4012-4bcd-aeb5-1f0a6110ec40/public_url)
-- [Hashicorp Terraform Associate](https://www.credly.com/badges/7833f995-d195-43cf-a6a9-5430698d6669/public_url)
+## Activities 👨‍💻
+<details>
+  <summary>📁 Projects </summary>
+  <p align="left">
+<a href="https://github.com/pratikkumar-mohite/kubesd"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pratikkumar-mohite&repo=kubesd&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
+  </p>
+</details>
+<details>
+  <summary>📕 Blogs </summary>
 
-- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/pratik-mohite.df7e2712)
+  - [GitOps fundamentals with Codefresh](https://medium.com/@DotSlashMohite/gitops-fundamentals-with-codefresh-f2500a5e4ff4)
+  - [Foundation for Istio by solo.io](https://medium.com/@DotSlashMohite/foundation-for-istio-by-solo-io-a6a0ebc11669)
+</details>
+
+---
+
+## My Certifications 🏅
+
 <p align="left">
-  <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125">
-  <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120" height="117">
-  <img src="https://images.credly.com/size/680x680/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" width="117" height="117">
+  <a href="https://www.credly.com/badges/99605a74-4012-4bcd-aeb5-1f0a6110ec40/public_url"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/7833f995-d195-43cf-a6a9-5430698d6669/public_url"><img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120" height="117"></a>
+  <a href="https://www.credly.com/badges/fad4e5b3-1671-4895-a7fd-8fb895ca2f7a/public_url"><img src="https://images.credly.com/size/680x680/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" width="117" height="117"></a>
 </p>
 
 ---
