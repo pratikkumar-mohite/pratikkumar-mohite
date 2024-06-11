@@ -87,11 +87,11 @@ Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : `mohite770.pm@gmail.com`
 <br>My socials are available on linkfree, do check : `pratikkumar-mohite`
 
-## Cloud Native Plans Checklist 6 Months from 1 Sept 2023 🚀
+## Cloud Native Plans Checklist 6 Months from 1 July 2024 🚀
 Below are some of my plans for the next few months as related to the [CNCF (Cloud Native Computing Foundation)](https://cncf.io/). Will check off the items and drop notes as I achieve each.
 
-- [x] Participate in CNCF Zero-To-Merge
-- [x] Attend DevOpsDays 2023
+- [ ] Contribute to One CNCF Sandbox Project
+- [ ] Contribute as Speaker to any DevOps meetup
 
 <div align="center">
 	<picture>
