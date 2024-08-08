@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/pratikkumar-mohite">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Pratikkumar%20Mohite;A%20DevOps%20Proffessional;4%2B%20Years%20of%20%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Pratikkumar%20Mohite;A%20DevOps%20Proffessional;5%2B%20Years%20of%20%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <br>
 
