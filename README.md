@@ -42,12 +42,6 @@
 
 ## Activities 👨‍💻
 <details>
-  <summary>📁 Projects </summary>
-  <p align="left">
-<a href="https://github.com/pratikkumar-mohite/kubesd"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pratikkumar-mohite&repo=kubesd&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
-  </p>
-</details>
-<details>
   <summary>📕 Blogs </summary>
 
   - [GitOps fundamentals with Codefresh](https://medium.com/@DotSlashMohite/gitops-fundamentals-with-codefresh-f2500a5e4ff4)
