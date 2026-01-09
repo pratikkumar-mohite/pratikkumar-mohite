@@ -80,7 +80,7 @@
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : `mohite770.pm@gmail.com`
-<br>My socials are available on linkfree, do check : `pratikkumar-mohite`
+<br>Here is my Portfolio : https://pratikkumar.mohite.in/
 
 ## Cloud Native Plans Checklist 6 Months from 1 July 2026 🚀
 
