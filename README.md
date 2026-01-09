@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/pratikkumar-mohite">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Pratikkumar%20Mohite;A%20DevOps%20Proffessional;5%2B%20Years%20of%20%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Pratikkumar%20Mohite;A%20DevOps%20Proffessional;6%2B%20Years%20of%20%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <br>
 
@@ -82,11 +82,10 @@ Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : `mohite770.pm@gmail.com`
 <br>My socials are available on linkfree, do check : `pratikkumar-mohite`
 
-## Cloud Native Plans Checklist 6 Months from 1 July 2024 🚀
-Below are some of my plans for the next few months as related to the [CNCF (Cloud Native Computing Foundation)](https://cncf.io/). Will check off the items and drop notes as I achieve each.
+## Cloud Native Plans Checklist 6 Months from 1 July 2026 🚀
 
-- [ ] Contribute to One CNCF Sandbox Project
-- [ ] Contribute as Speaker to any DevOps meetup
+- [ ] Publish Content on Cloud Native concepts
+- [ ] Contribute as Speaker to tech event
 
 <div align="center">
 	<picture>
