@@ -11,12 +11,12 @@
 
 ## About Me 💫
 - 🔭 I’m currently working on DevOps migration projects
-- 🌱 I’m currently learning Golang and Service Mesh
-- 👯 I’m looking to collaborate on DevOps projects
+- 🌱 I’m currently learning Kafka and Graphql
+- 👯 I’m creating content on Cloud Native Concepts
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 - 💬 Ask me about DevOps and Cloud technology
 - 📫 You can reachout to me @ `mohite770.pm@gmail.com`
-- ⚡ Fun fact about me is that I play musical instuments like Guitar and Piano keyboard
+- ⚡ Fun fact about me is that I do photography in my free time
 
 ## Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikkumar-mohite/)
